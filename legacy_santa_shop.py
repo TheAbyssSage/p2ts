@@ -9,7 +9,7 @@ import time
 # 🎅 HO HO HO! WELCOME TO THE LEGACY SANTA SHOP MONOLITH (FLASK EDITION)! 🎅
 # This script is powered by Christmas Spirit and the Flask Framework.
 # It's much cleaner now, but still a monolith! 🌟
-
+ 
 app = Flask(__name__)
 PORT = 8000
 API_URL = "http://localhost:3000/products"

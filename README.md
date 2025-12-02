@@ -30,6 +30,8 @@ python3 legacy_santa_shop.py
 
 This will start a web server at `http://localhost:8000` and should automatically open your browser.
 
+
+
 ## 🏗️ How the Legacy App Works
 
 This script is a **Monolith**, meaning the logic, data fetching, and UI rendering are all mixed together in one file.
